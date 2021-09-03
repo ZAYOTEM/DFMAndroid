@@ -7,7 +7,7 @@ Requirement: IDA PRO, an Android emulator (like Genymotion)
 
 Usage:
 
-Load apk to IDA and Android emulator. Set dalvik debugger options under below Debugger->Debugger Options->Set Spesific Options. To load script, Go File->Script File and select the script file or you can use ALT+F7 shortcut. Script will add breakpoint to all functions. When the breakpoint is triggered, script will save function name to dfm_output.txt which is located in your desktop.
+Load APK to IDA and Android emulator. Set dalvik debugger options under below Debugger->Debugger Options->Set Spesific Options. To load script, Go File->Script File and select the script file or you can use ALT+F7 shortcut. Script will add breakpoint to all functions. When the breakpoint is triggered (IDA dalvik debugger must be working), script will save function names in order of execution to dfm_output.txt which is located in your desktop.
 
 [TR] 
 
