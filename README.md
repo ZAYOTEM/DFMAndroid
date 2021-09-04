@@ -22,3 +22,7 @@ APK'yı hem IDA'ya hem de Android emülatöre yükleyin. Dalvik debugger ayarlar
 ![](img/ss_1.png)
 ![](img/ss_2.png)
 
+## Developers
+Halil FİLİK
+Hakan SOYSAL
+
